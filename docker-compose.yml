@@ -1,0 +1,5 @@
+version: "3"
+services:
+  linux:
+    image: alpine
+    command: "date"
